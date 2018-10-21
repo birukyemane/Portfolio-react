@@ -1,4 +1,4 @@
-# portfolio website using react
+# Blog website using react
 
 check it out [live!](https://birukyemane.github.io/blog-react/)
 
