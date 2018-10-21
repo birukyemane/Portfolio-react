@@ -3,6 +3,7 @@
 check it out [live!](https://birukyemane.github.io/blog-react/)
 
 
- * a static web page for a protfolio 
+ * blog web site
+ * the website is static - its done with React.js for exercise purpose
  * using React.js
- * flexbox 
+ * HTML5 and flexbox 
