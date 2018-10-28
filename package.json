@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://birukyemane.github.io/Portfolio-react",
+  "homepage": "https://birukyemane.github.io/blog-react",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.6",
     "react": "^16.5.2",
