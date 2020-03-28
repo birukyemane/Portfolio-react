@@ -7,7 +7,7 @@ import Testimonal from './components/Testimonal';
 
 
 class App extends Component { 
-  render() {
+  render() { 
     let introContent = [{icon:"fa fa-mobile",introTitle:"superbly",introEmphasis:"Responisve",content:"är en utfyllnadstext från tryck- och förlagsindustrin"},
     {icon:"fa fa-laptop",introTitle:"superbly",introEmphasis:"Responisve",content:"är en utfyllnadstext från tryck- och förlagsindustrin."},
     {icon:"fa fa-mobile",introTitle:"superbly",introEmphasis:"Responisve",content:"är en utfyllnadstext från tryck- och förlagsindustrin"},
