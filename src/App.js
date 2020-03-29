@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/Header';
 import Intro from './components/Intro';
 import RecentWork from './components/RecentWork';
-import Testimonal from './components/Testimonal';
+import Testimonal from './components/Testimonal'; 
 
 
 class App extends Component { 
