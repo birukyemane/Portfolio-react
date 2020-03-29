@@ -5,7 +5,7 @@ class Intro extends Component{
         const {icon,introEmphasis, introTitle, content } = this.props;
         //const content = this.props.content;
         return (
-            <div className="introContent">
+            <div className="introContent"> 
               <i className={icon}></i> 
               <p className="introTitle"><emphasis className="emphContent">{introEmphasis}</emphasis> {introTitle}</p> 
               <p className="contentText">{content} </p>       
