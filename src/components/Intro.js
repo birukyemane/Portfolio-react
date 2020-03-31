@@ -3,7 +3,7 @@ import React, { Component }  from 'react';
 class Intro extends Component{
     render(){
         const {icon,introEmphasis, introTitle, content } = this.props;
-        //const content = this.props.content;
+        //const content = this.props.content; 
         return (
             <div className="introContent"> 
               <i className={icon}></i> 
