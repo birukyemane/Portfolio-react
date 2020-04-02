@@ -12,7 +12,7 @@ class Header extends Component{
                   <small>Find out how you can offer quick and powerful <br />solutions to your customers now.</small> <br />
                   <br />
                   <input id="learnMore" type="button" value="LEARN MORE" />       
-                </div>
+                </div> 
             </div>
             
             <div className="blueHeader autoMargin80perc">
