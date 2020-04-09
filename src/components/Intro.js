@@ -13,5 +13,5 @@ class Intro extends Component{
           </div> 
         );
     }
-}
+} 
 export default Intro;   
