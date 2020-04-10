@@ -13,7 +13,7 @@ class Header extends Component{
                   <br />
                   <input id="learnMore" type="button" value="LEARN MORE" />       
                 </div> 
-            </div> 
+            </div>  
             
             <div className="blueHeader autoMargin80perc">
               <h2 className="blueTitle">CREATE A <emphasis className="header">POWERFUL</emphasis> SOLUTION NOW!</h2>
