@@ -8,4 +8,4 @@ const Testimonal = (props) => {
     </div>
     );
 }
-export default Testimonal;  
+export default Testimonal;   
