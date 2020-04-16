@@ -20,7 +20,7 @@ class Header extends Component{
               <input className="blueButton" type="button" value="GET STARTED" />
             </div>
           </header>
-        );
+        ); 
     }
 }
 export default Header;
