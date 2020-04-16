@@ -1,7 +1,7 @@
 import React, { Component }  from 'react';
 import bg from '../assets/Header-img.png'
 
-class Header extends Component{
+class Header extends Component{ 
     render(){        
         return (<header>
             <div id="headerContainer" className="autoMargin80perc">
