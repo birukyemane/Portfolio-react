@@ -5,7 +5,7 @@ const Testimonal = (props) => {
     <div className="testimonals">
         <h3 className="recentTitle">{props.title}</h3>
         <p>{props.content}</p>
-    </div> 
+    </div>  
     );
 }
 export default Testimonal;   
