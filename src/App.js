@@ -6,7 +6,7 @@ import RecentWork from './components/RecentWork';
 import Testimonal from './components/Testimonal';
 
 
-class App extends Component { 
+class App extends Component {
   render() { 
     let introContent = [{icon:"fa fa-mobile",introTitle:"superbly",introEmphasis:"Responisve",content:"är en utfyllnadstext från tryck- och förlagsindustrin"},
     {icon:"fa fa-laptop",introTitle:"superbly",introEmphasis:"Responisve",content:"är en utfyllnadstext från tryck- och förlagsindustrin."},
