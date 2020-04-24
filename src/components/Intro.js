@@ -12,6 +12,6 @@ class Intro extends Component{
               <input type="button" value="READ MORE" className="introButton"></input>
           </div> 
         );
-    }
+    } 
 } 
 export default Intro;   
