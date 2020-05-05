@@ -8,7 +8,7 @@ const RecentWork = (props) => {
         <div className="recent">
             <h3 className="recentTitle">{props.title}</h3>
             <p>{props.content}</p>
-        </div> 
+        </div>  
     </div>  
     ); 
 }
