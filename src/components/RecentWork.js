@@ -12,4 +12,4 @@ const RecentWork = (props) => {
     </div>  
     ); 
 }
-export default RecentWork;    
+export default RecentWork;     
