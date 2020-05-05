@@ -10,7 +10,7 @@ class Intro extends Component{
               <p className="introTitle"><emphasis className="emphContent">{introEmphasis}</emphasis> {introTitle}</p> 
               <p className="contentText">{content} </p>       
               <input type="button" value="READ MORE" className="introButton"></input>
-          </div> 
+          </div>   
         );
     } 
 }

@@ -9,7 +9,7 @@ const RecentWork = (props) => {
             <h3 className="recentTitle">{props.title}</h3>
             <p>{props.content}</p>
         </div> 
-    </div>
+    </div>  
     );
 }
 export default RecentWork;    

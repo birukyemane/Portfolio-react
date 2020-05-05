@@ -9,11 +9,11 @@ class Header extends Component{
                 <div id="headerText">
                   <h1 id="headerTitle"><emphasis className="header">POWERFULLY SIMPLE</emphasis> WITH A <br /><emphasis className="header">SQUEEKY CLEAN</emphasis> DESIGN.</h1>
                   <br />
-                  <small>Find out how you can offer quick and powerful <br />solutions to your customers now.</small> <br />
+                  <small>Find out how you can offer quick and powerful <br />solutions to your customers.</small> <br />
                   <br />
                   <input id="learnMore" type="button" value="LEARN MORE" />       
                 </div> 
-            </div>  
+            </div>   
             
             <div className="blueHeader autoMargin80perc">
               <h2 className="blueTitle">CREATE A <emphasis className="header">POWERFUL</emphasis> SOLUTION NOW!</h2>
