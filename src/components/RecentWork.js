@@ -10,6 +10,6 @@ const RecentWork = (props) => {
             <p>{props.content}</p>
         </div> 
     </div>  
-    );
+    ); 
 }
 export default RecentWork;    
