@@ -14,7 +14,7 @@ class App extends Component {
     {icon:"fa fa-mobile",introTitle:"superbly",introEmphasis:"Responisve",content:"är en utfyllnadstext från tryck- och förlagsindustrin."},
   ];
 
-  let recentWorks = [
+  let recentWorks = [ 
     {title:"Blog title", content:"Det är ett välkänt faktum att läsare distraheras av läsbar text på enyouten."},
     {title:"Blog title", content:"Det är ett välkänt faktum att läsare distraheras av läsbar text på enyouten."},
     {title:"Blog title", content:"Det är ett välkänt faktum att läsare distraheras av läsbar text på enyouten."},    
