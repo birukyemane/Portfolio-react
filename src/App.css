@@ -2,7 +2,7 @@ body {
   background: #EFEFEF;
 }
 
-header{
+header{ 
   background:#404040;
   display:flex;
   flex-direction:column;  
@@ -11,7 +11,7 @@ header{
 #headerContainer {   
   display: flex;   
   
-}
+} 
 
 
 #headerImg {
