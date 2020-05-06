@@ -3,7 +3,7 @@ import bg from '../assets/Header-img.png'
 
 class Header extends Component{ 
     render(){        
-        return (<header>
+        return (<header> 
             <div id="headerContainer" className="autoMargin80perc">
                 <img src={bg} alt="desktop laptop and tablet" id="headerImg" />
                 <div id="headerText">
